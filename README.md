@@ -1,14 +1,24 @@
 <h1>Islamic Landing Page</h1>
-Welcome! I chose Islam theme as the basis of my Odin Landing Page project. 
+Salamun Alaikum! I chose Islam theme as the basis of my Odin Landing Page project. 
 <br>
 <br>
 
 <h2> Materials Used</h2> 
+<h3>The Template Theme</h3>
+Description: An Islamic Landing page theme on dribble
+<br>
+Source: <a href="https://www.dribbble.com">Dribbble</a>
+<br>
+Author: <a href="https://dribbble.com/uitariqul">Tariqul Islam</a>
+<br>
+<a href="https://dribbble.com/shots/19613693-Mosque-Islamic-Center-Website/attachments/14735654?mode=media"></a>
 <h3>Logo Islamic Mosque and Quran Logo</h3>
 
 <img src="imgs/logo.png" height=150px/>
 <br>
 Description: A modern navy Islamic mosque and Quran logo in flat style, isolated on a white background.
+<br>
+Author: <a href="https://www.vecteezy.com/members/dedensumarna1790013">Dean Studio</a>
 <br>
 Source: <a href="https://www.vecteezy.com/vector-art/35283992-modern-navy-islamic-mosque-and-quran-logo-flat-style-isolated-on-white-background-vector-illustration">Vecteezy Favicon</a>
 
@@ -33,8 +43,6 @@ Photographer: Oziel Gómez
 <br>
 Source: <a href="https://www.pexels.com/photo/mosque-near-the-body-of-water-7529416/">Pexels</a>
 
-
-<br>
 <h3>Quran Icon</h3>
 
 Description: An icon representing the Quran.
@@ -64,7 +72,10 @@ How to Use
 To incorporate this Islamic-themed landing page into your project:
 
 <h4>Clone or download the repository.</h4>
-`git clone https://www.github.com/Llll0l0l/qaswa.git ` <br> <br>
+
+`git clone https://www.github.com/Llll0l0l/qaswa.git `
+
+<br> 
 Customize the content to suit your needs.<br>
 Ensure proper attribution to the original sources of the materials used.
 Deploy the landing page on your preferred hosting platform.
