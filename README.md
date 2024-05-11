@@ -63,8 +63,7 @@ Feel free to explore and utilize this landing page for your projects, events, or
 How to Use
 To incorporate this Islamic-themed landing page into your project:
 
-Clone or download the repository.
-<br>
+<h4>Clone or download the repository.</h4>
 `git clone https://www.github.com/Llll0l0l/qaswa.git ` <br> <br>
 Customize the content to suit your needs.<br>
 Ensure proper attribution to the original sources of the materials used.
