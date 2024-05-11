@@ -34,12 +34,9 @@ Photographer: Oziel Gómez
 Source: <a href="https://www.pexels.com/photo/mosque-near-the-body-of-water-7529416/">Pexels</a>
 
 
-
+<br>
 <h3>Quran Icon</h3>
 
-
-
-<br>
 Description: An icon representing the Quran.
 <br>
 Designer: Bigis Gis
