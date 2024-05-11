@@ -49,8 +49,7 @@ Source: <a href="https://iconscout.com/icons/quran" class="text-underline font-s
 
 
 <h3>TV Icon</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" id="tv"><g clip-path="url(#clip0_9076_8920)"><path fill="#2A88F9" fill-rule="evenodd" d="M7.29289 2.29289C7.68342 1.90237 8.31658 1.90237 8.70711 2.29289L12 5.58579L15.2929 2.29289C15.6834 1.90237 16.3166 1.90237 16.7071 2.29289C17.0976 2.68342 17.0976 3.31658 16.7071 3.70711L12.7071 7.70711C12.3166 8.09763 11.6834 8.09763 11.2929 7.70711L7.29289 3.70711C6.90237 3.31658 6.90237 2.68342 7.29289 2.29289Z" clip-rule="evenodd"></path><path fill="#AACFFC" d="M5 6C4.20435 6 3.44129 6.31607 2.87868 6.87868C2.31607 7.44129 2 8.20435 2 9V18C2 18.7956 2.31607 19.5587 2.87868 20.1213C3.44129 20.6839 4.20435 21 5 21H19C19.7957 21 20.5587 20.6839 21.1213 20.1213C21.6839 19.5587 22 18.7957 22 18V9C22 8.20435 21.6839 7.44129 21.1213 6.87868C20.5587 6.31607 19.7957 6 19 6H5Z"></path></g><defs><clipPath id="clip0_9076_8920"><rect width="24" height="24" fill="#fff"></rect></clipPath></defs></svg>
-                
+               
 Description: An icon depicting a television set.
 <br>
 Designer: Senoa Studio
