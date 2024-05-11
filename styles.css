@@ -1,0 +1,252 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+header {
+  background-color: #f9f8f6;
+  padding-bottom: 5px;
+
+}
+
+header nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 2em;
+}
+
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  flex: 1;
+  max-width: 100%;
+  list-style-type: none;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+nav ul li {
+  min-width: 14em;
+  text-align: center;
+}
+
+nav ul li a {
+  border-radius: 8px;
+  padding: 0.7em 3em;
+  color: rgb(3, 29, 34);
+
+}
+
+nav ul li a:hover {
+  border: 1px solid rgb(167, 121, 128);
+  background-color: #e4b6b4;
+  color: rgb(85, 104, 167);
+
+}
+
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  background-color: #64a482;
+  border: none;
+  padding: 13px;
+  border-radius: 5px;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 5em;
+}
+
+.mosque {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  max-width: 100%;
+  background-color: #fbe9d3;
+  padding-bottom: 22em;
+  height: 51.5em;
+}
+
+.mosque div {
+  margin-top: 10%;
+  margin-left: 50px;
+}
+.mosque h2 {
+  font-size: 4rem;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.flex-col p {
+  font-style: italic;
+  font-size: 1.3em;
+}
+
+.right {
+  align-self: center;
+}
+
+.actions {
+  padding-top: 2rem;
+
+  text-align: center;
+  background-color: #f4faf8;
+  padding-bottom: 2rem;
+}
+
+.services {
+  margin-top: 2rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.services div {
+  width: 18rem;
+  height: 17em;
+  background-color: #fefefe;
+  border-radius: 15px;
+  text-align: left;
+  vertical-align: center;
+  font-size: 1.5rem;
+  box-shadow: 0px 5px 13px 1px rgb(86, 83, 83);
+  transition-duration: 0.4s;
+}
+
+
+.services div:hover {
+  transform: scale(1.05, 1.03);
+}
+
+.mosque img {
+  width: 50em;
+  height: 50.5em;
+  object-fit: cover;
+  position: absolute;
+  right: 0;
+}
+
+.services svg {
+  width: 30%;
+  height: 30%;
+}
+
+.actions h2 {
+  font-size: 2em;
+  color: rgb(121, 92, 92);
+}
+
+.services h3 {
+  padding-left: 16px;
+  margin-top: 0;
+}
+
+.main-text {
+  padding-top: 30px;
+  padding-left: 20px;
+  font-size: 1em;
+}
+
+.right {
+  padding-top: 60px;
+  padding-left: 20px;
+  font-size: 0.7em;
+  font-style: italic;
+  position: relative;
+  right: -2em;
+}
+
+.fit {
+  max-width: 80%;
+  font-size: 1em;
+  right: -1em;
+}
+
+footer {
+  padding: 8em 0;
+  background-color: rgb(121, 142, 160);
+
+}
+
+footer div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer ul {
+  margin: 0 3em;
+  margin-top: 2em;
+  list-style-type: none;
+  display: flex;
+  gap: 1em;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+
+}
+
+footer ul li {
+  background-color: #fff1d2;
+  border-radius: 10px;
+  width: 18em;
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(121, 92, 92);
+  font-size: larger;
+  padding: 0 1em;
+  
+  
+}
+
+footer ul a {
+  transition-duration: 0.3s;
+}
+
+footer ul a:hover {
+transform: scale(1.05, 1.05);
+}
+
+footer h3 {
+  font-size: 2em;
+  margin-top: -2em;
+  margin-bottom: 2em;
+  color: rgb(255, 255, 255);
+}
+
+
+footer hr {
+  margin: 5em 3em 0 3em;
+}
